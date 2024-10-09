@@ -107,6 +107,9 @@ float:left; transition:0.3s;}
     border-radius: 5px;
     margin-bottom: 60px;
 }
+.bannerBtn:hover{
+    background:#FF5200;
+}
 .bannerNav{
     width:100px;
     margin:auto;
