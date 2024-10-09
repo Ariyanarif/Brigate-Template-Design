@@ -106,10 +106,10 @@ float:left; transition:0.3s;}
     font-weight: 600;
     border-radius: 5px;
     margin-bottom: 60px;
+    transition: 0.3s;
 }
 .bannerBtn:hover{
     background:#FF5200;
-    transition: 0.3s;
 }
 .bannerNav{
     width:100px;
