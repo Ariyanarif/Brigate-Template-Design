@@ -109,6 +109,7 @@ float:left; transition:0.3s;}
 }
 .bannerBtn:hover{
     background:#FF5200;
+    transition: 0.3s;
 }
 .bannerNav{
     width:100px;
